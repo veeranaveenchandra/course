@@ -3,3 +3,6 @@ kubernetes
 glue
 athena
 etl
+emr
+eks
+slack
